@@ -12,5 +12,5 @@ This is a simple project using Git and GitHub.
 ### Installation
 To clone this repository, use the following command:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/Katawutxz/Markdown.git
+cd Markdown
